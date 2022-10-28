@@ -1,3 +1,49 @@
+
+.tableau-style  {
+    border-collapse: collapse; 
+}
+
+.p1{
+background-color: forestgreen;
+}
+.p2{
+background-color: forestgreen;
+}
+.p3{
+background-color: forestgreen;
+}
+.p4{
+ background-color: forestgreen;
+}
+.p5{
+background-color: forestgreen;
+}
+
+.p6{
+background-color: rgb(0, 255, 55) !important;
+ }
+.p7{
+ background-color: red !important;
+}
+.p8{
+background-color: rgb(0, 255, 55) !important;
+ }
+
+.p9{
+background-color: rgb(0, 255, 55) !important;
+}
+.p10{
+background-color: rgb(0, 255, 55) !important;
+}
+.p11{
+background-color: rgb(0, 255, 55) !important;
+}
+
+
+
+
+
+
 .porte-avion {
     background-color: forestgreen !important;
 }
@@ -19,7 +65,7 @@
 }
 
 .croiseur {
-    background-color: springgreen !important;
+    background-color: rgb(0, 255, 55) !important;
 }
 
 .croiseur::before {
@@ -66,3 +112,6 @@
     color: black;
     content: "M";
 }
+
+
+
